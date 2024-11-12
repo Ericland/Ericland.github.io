@@ -27,7 +27,7 @@ author:
   bio              : "PhD Student"
   location         : "Cornell University"
   employer         : 
-  uri              : "https://Ericland.github.io" # URL
+  uri              : # URL
   email            : "jc3472@cornell.edu" 
 
   # Academic websites
