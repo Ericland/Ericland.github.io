@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV & Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Coming soon!
+[CV](https://github.com/Ericland/Ericland.github.io/blob/master/files/cv.pdf)
