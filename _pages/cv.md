@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://github.com/Ericland/Ericland.github.io/blob/master/files/cv.pdf)
+[CV](https://Ericland.github.io/files/cv.pdf)
 
-[Resume](https://github.com/Ericland/Ericland.github.io/blob/master/files/resume.pdf)
+[Resume](https://Ericland.github.io/files/resume.pdf)
