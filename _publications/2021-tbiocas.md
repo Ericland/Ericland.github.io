@@ -1,7 +1,7 @@
 ---
 title: "A 10.8 uW Neural Signal Recorder and Processor with Unsupervised Analog Classifier for Spike Sorting"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2021-tbiocas
 excerpt: 
 date: 2021-04-01
