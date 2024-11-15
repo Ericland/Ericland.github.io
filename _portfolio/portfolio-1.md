@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Collective Robotic Terrain Transformation"
+excerpt: "Coordination of swarms of simple robots to build terrains with complex shapes<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Developed planning algorithms for coordinating a group of simple earth-mover robots to collectively transform a continuous terrain into a user-defined shape.
+- Developed a multi-robot simulator in Python.
