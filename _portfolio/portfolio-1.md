@@ -6,3 +6,4 @@ collection: portfolio
 
 - Developed planning algorithms for coordinating a group of simple earth-mover robots to collectively transform a continuous terrain into a user-defined shape.
 - Developed a multi-robot simulator in Python.
+![alt text](files/crm/wmrdp_r5_merge1.gif)
