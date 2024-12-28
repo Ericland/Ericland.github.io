@@ -1,6 +1,6 @@
 ---
 title: "Collective Robotic Terrain Transformation"
-excerpt: "Coordination of swarms of simple robots to build terrains with complex shapes<br/><img src='files/crm/wmrdp_r5_merge1.gif'>"
+excerpt: "Coordination of swarms of simple robots to build terrains with complex shapes<br/><img src='https://github.com/Ericland/Ericland.github.io/blob/master/files/crm/wmrdp_r5_merge1.gif'>"
 collection: portfolio
 ---
 
