@@ -1,6 +1,6 @@
 ---
 title: "Error Correction in Large-Scale Distributed Robotic Construction"
-excerpt: "An error-resilient distributed multi-robot construction system capable of leveraging simple agents for correcting emerging errors<br/><img src='/files/crc/10x10_2d.gif'><img src='/files/crc/10x10_3d.gif'>"
+excerpt: "An error-resilient distributed multi-robot construction system capable of leveraging simple agents for correcting emerging errors<br/><img src='/files/crc/10x10_all.gif'>"
 collection: portfolio
 ---
 
