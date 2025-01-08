@@ -4,7 +4,6 @@ excerpt: "An error-resilient distributed multi-robot construction system capable
 collection: portfolio
 ---
 
-# Error Correction in Large-Scale Distributed Robotic Construction Systems
 *An error-resilient distributed multi-robot construction system capable of leveraging simple agents for correcting emerging errors.*
 
 ![combine two mounds](https://Ericland.github.io/files/crc/10x10_all.gif)
