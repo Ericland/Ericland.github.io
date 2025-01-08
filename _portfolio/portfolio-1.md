@@ -4,7 +4,6 @@ excerpt: "Coordination of swarms of robots with minimal onboard capabilities to 
 collection: portfolio
 ---
 
-# Collective Robotic Terrain Transformation
 *Coordination of swarms of robots with minimal onboard capabilities to build terrains with complex shapes.*
 
 ![combine two mounds](https://Ericland.github.io/files/ctm/wmrdp_r5_merge1_cover.gif)
