@@ -4,7 +4,6 @@ excerpt: "Apply reinforcement learning to teach robots how to build structures w
 collection: portfolio
 ---
 
-# Learning to Construct with Granules
 *Apply reinforcement learning to teach robots how to build structures with granular material.*
 
 ![saw robot digging](https://Ericland.github.io/files/ctm_rl/dig.gif)
