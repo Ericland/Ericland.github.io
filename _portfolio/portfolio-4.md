@@ -4,7 +4,6 @@ excerpt: "Programmable modularized wireless power transfer system offering flexi
 collection: portfolio
 ---
 
-# Multi-Robot Wireless Charging System
 *Programmable modularized wireless power transfer system offering flexible charging functions for multi-robot systems and strong tolerance for coil misalignment.*
 
 ![combine two mounds](https://Ericland.github.io/files/wpt/cover.png)
