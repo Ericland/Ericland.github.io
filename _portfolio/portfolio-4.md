@@ -1,6 +1,6 @@
 ---
 title: "Multi-Robot Wireless Charging System"
-excerpt: "Programmable modularized wireless power transfer system offering flexible charging functions for multi-robot system and tolerance for coil misalignment<br/><img src='/files/wpt/cover.png'>"
+excerpt: "Programmable modularized wireless power transfer system offering flexible charging functions for multi-robot systems and strong tolerance for coil misalignment<br/><img src='/files/wpt/cover.png'>"
 collection: portfolio
 ---
 
