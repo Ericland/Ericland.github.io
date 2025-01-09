@@ -16,6 +16,6 @@ I have five years of experience programming with Python and am familiar with dee
 For future work, I envision bringing artificial general intelligence to multi-robot systems to enable more intelligent and complex interactions, such as reasoning, correcting, and preventing complex errors through mutual interactions, and achieve goals far beyond the capability of an individual robot.  
 
 ## Recent News 
-:new: [2024/12] [I successfully defended my thesis!](https://cei.ece.cornell.edu/2024/12/10/jiahe-chens-defense/) 
+:new: [2024/12] [I successfully defended my thesis!](https://cei.ece.cornell.edu/2024/12/10/jiahe-chens-defense/)   
 :new: [2024/10] I presented our paper on collective terrain transformation on [DARS 2024](https://dars2024.engineering.cornell.edu/)!
 
