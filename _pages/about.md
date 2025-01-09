@@ -9,7 +9,7 @@ redirect_from:
 
 ### [[CV]](https://ericland.github.io/files/cv.pdf) | [[Resume]](https://ericland.github.io/files/resume.pdf) | [Research Statement]
 
-I recently graduated from Cornell University with a PhD in Robotics. My research focuses on leveraging swarms of simple robots combined with advanced mathematical models to develop error-tolerant multi-robot systems capable of building large-scale complex structures. The research theme spans diverse fields, including agent-based modeling, distributed algorithms, reinforcement learning, and physics-based simulations. 
+I recently graduated from Cornell University with a PhD in Robotics advised by [Prof. Kirstin Petersen](https://www.ece.cornell.edu/faculty-directory/kirstin-hagelskjaer-petersen). My research focuses on leveraging swarms of simple robots combined with advanced mathematical models to develop error-tolerant multi-robot systems capable of building large-scale complex structures. The research theme spans diverse fields, including agent-based modeling, distributed algorithms, reinforcement learning, and physics-based simulations. 
 
 I have five years of experience programming with Python and am familiar with deep-learning frameworks, including PyTorch and TensorFlow, and robotic frameworks, including ROS. I have also published several papers in high-end robotics conferences, including IROS, ICRA, and DARS. During my PhD studies, I received several fellowships, including the Jacobs and Merit-Based Fellowships, and I have been actively engaged in teaching courses in robotics and computer systems. 
 
