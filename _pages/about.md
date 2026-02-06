@@ -7,15 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-## [[CV]](https://ericland.github.io/files/resume/cv.pdf) | [Resume] | [Research Statement]   
+## Aloha!
 
-I recently graduated from Cornell University with a PhD in Robotics advised by [Prof. Kirstin Petersen](https://www.ece.cornell.edu/faculty-directory/kirstin-hagelskjaer-petersen). My research focuses on leveraging swarms of simple robots combined with advanced mathematical models to develop error-tolerant multi-robot systems capable of building large-scale complex structures. The research theme spans diverse fields, including agent-based modeling, distributed algorithms, reinforcement learning, and physics-based simulations. 
+I graduated from Cornell University with a PhD in Robotics advised by [Prof. Kirstin Petersen](https://www.ece.cornell.edu/faculty-directory/kirstin-hagelskjaer-petersen). My research focuses on leveraging swarms of simple robots combined with advanced mathematical models to develop error-tolerant multi-robot systems capable of building large-scale complex structures. 
+During my PhD studies, I have published several papers in high-end robotics conferences, including IROS, ICRA, and DARS. I have also received several awards and fellowships, including Outstanding Academic Award, the Jacobs Fellowship, and Merit-Based Fellowship. 
 
-I have five years of experience programming with Python and am familiar with deep-learning frameworks, including PyTorch and TensorFlow, and robotic frameworks, including ROS. I have also published several papers in high-end robotics conferences, including IROS, ICRA, and DARS. During my PhD studies, I received several fellowships, including the Jacobs and Merit-Based Fellowships, and I have been actively engaged in teaching courses in robotics and computer systems. 
-
-For future work, I envision bringing artificial general intelligence to multi-robot systems to enable more intelligent and complex interactions, such as reasoning, correcting, and preventing complex errors through mutual interactions, and achieve goals far beyond the capability of an individual robot.  
+Currently I am a Senior Applied Scientist at General Motors, specializing in robotic perception and robotic foundation models. 
+My work focuses on developing advanced AI systems that enable robots to understand and interact with complex, real-world environments through multi-modal sensing, large-scale learning, and generative modeling.
+I am particularly interested in developing safe and scalable robotic platforms that improve autonomy, reliability, and real-world deployment across industrial applications.
 
 ## Recent News 
+:new: [2026/01] I’m happy to share that I’m starting a new position as Senior Applied Scientist - Robotic Foundation Models at General Motors! 
+:new: [2025/10] Our paper 2D Construction Planning for Swarms of Simple Earthmover Robots has been accepted to [Autonomous Robots](https://cei.ece.cornell.edu/2025/11/17/auro/)
 :new: [2024/12] [I successfully defended my thesis!](https://cei.ece.cornell.edu/2024/12/10/jiahe-chens-defense/)   
 :new: [2024/10] I presented our paper on collective terrain transformation on [DARS 2024](https://dars2024.engineering.cornell.edu/)!
 
