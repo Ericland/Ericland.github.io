@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+# Sass/theme SCSS can contain UTF-8; Ruby 4 may default to US-ASCII without a locale.
+Encoding.default_external = Encoding::UTF_8
+
+# github-pages runs Jekyll in safe mode (ignores _plugins). Liquid 4.0.3 calls
+# #tainted? on filter outputs; Ruby 3.2+ removed tainting from core classes.
+require "bundler/setup"
+require "liquid"
+Liquid::Variable.class_eval do
+  def taint_check(_context, _obj); end
+end
+
+load Gem.bin_path("jekyll", "jekyll")
